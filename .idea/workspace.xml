@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86a8b5fb-37c0-40e0-9532-4abfc12318ce" name="Changes" comment="second commit:&#10;add menu &#10;modify the classes and methodes" />
+    <list default="true" id="86a8b5fb-37c0-40e0-9532-4abfc12318ce" name="Changes" comment="second commit:&#10;add menu &#10;modify the classes and methodes">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/City.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/City.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CityHistory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CityHistory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MENU.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MENU.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,6 +55,13 @@
       <recent name="C:\Users\user\MY JAVA\Weather_App" />
     </key>
   </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -73,7 +87,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708678336061</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="second commit:&#10;add menu &#10;modify the classes and methodes">
+      <option name="closed" value="true" />
+      <created>1708678454261</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1708678454261</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

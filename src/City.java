@@ -7,7 +7,9 @@ public class City {
     private int CityTemperature;
     private int CurrentHumidity;
     private int CurrentWedSpeed;
-    public City(){}
+    public City(){
+
+    }
 
     public City(int ID, String cityName, int cityTemperature, int currentHumidity, int currentWedSpeed) {
         this.ID = ID;
